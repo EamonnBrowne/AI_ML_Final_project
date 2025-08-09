@@ -1,0 +1,13 @@
+*.png
+!NCI_Logo_white.png
+*.csv
+!ai4i2020.csv
+!X_test.csv
+!y_test.csv
+.venv/
+catboost_info/
+*.pkl
+!tuned_voting_model.pkl
+!preprocessor.pkl
+*pipeline*
+.idea/
